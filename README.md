@@ -41,6 +41,7 @@
 ### Refer :
 
 [Vid By KG](https://www.youtube.com/watch?v=k3D0cWyNno4&t=925s)
+[Android Authority](http://www.androidauthority.com/reactive-programming-with-rxandroid-711104/)
 
 
 
