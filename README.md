@@ -1,10 +1,10 @@
 # RxAndroid with Retrofit
 
-### More Words...
+### Rx
 
 * Rx stands for Reactive Extensions.
 * Term Rx Created by Microsoft. 
-* It is not a new language, It is just an other library.
+* It is not a new language, It is just an other library say Retrofit, Glide etc.,
 
 ### Anatomy
 1. Observable
