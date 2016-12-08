@@ -14,12 +14,13 @@
 1. Observable
 2. Observer
 3. Schedulers
+4. Subscription
 
 ```
-                getIpApiObservable()                       --> Observable (Retrofit Call)
+                getIpApiObservable()                        --> Observable (Retrofit Call)
                 .subscribeOn(Schedulers.io())              |--> Schdulers
                 .observeOn(AndroidSchedulers.mainThread()) |
-                .subscribe(new Subscriber<String>() {      --> Observer
+                .subscribe(new Subscriber<String>() {       --> Observer
                     @Override
                     public void onCompleted() {
                         Toast.makeText(MainActivity.this, "onCompleted", Toast.LENGTH_SHORT).show();
@@ -36,6 +37,10 @@
                     }
                 });
 ```
+
+### Refer :
+
+[Vid By KG](https://www.youtube.com/watch?v=k3D0cWyNno4&t=925s)
 
 
 
