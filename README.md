@@ -57,6 +57,6 @@ Observers can take actions when an Observable emits a value, when the Observable
 
 [Blog-Danlew](http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/)
 
-
+---
 >Glad to see you! Thank You.
 
