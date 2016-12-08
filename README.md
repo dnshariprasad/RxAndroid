@@ -16,10 +16,10 @@
 3. Schedulers
 
 ```
- getIpApiObservable()                                       --> Retrofit Call
+                getIpApiObservable()                       --> Observable (Retrofit Call)
                 .subscribeOn(Schedulers.io())              |--> Schdulers
                 .observeOn(AndroidSchedulers.mainThread()) |
-                .subscribe(new Subscriber<String>() {       --> Observer
+                .subscribe(new Subscriber<String>() {      --> Observer
                     @Override
                     public void onCompleted() {
                         Toast.makeText(MainActivity.this, "onCompleted", Toast.LENGTH_SHORT).show();
