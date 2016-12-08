@@ -1,4 +1,4 @@
-# android-RxAndroid-retrofit
+# RxAndroid with Retrofit
 
 > Includes..
 * RxAndroid
