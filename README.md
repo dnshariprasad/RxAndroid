@@ -45,6 +45,8 @@ Observers can take actions when an Observable emits a value, when the Observable
 
 [Vid By KG](https://www.youtube.com/watch?v=k3D0cWyNno4&t=925s)
 
+[KG Vid Slides](https://speakerdeck.com/kaushikgopal/learning-rxjava-for-android-by-example)
+
 [Android Authority](http://www.androidauthority.com/reactive-programming-with-rxandroid-711104/)
 
 [medium - @kurtisnusbaum](https://medium.com/@kurtisnusbaum/rxandroid-basics-part-1-c0d5edcf6850#.55b1672l8)
