@@ -4,3 +4,8 @@
 * RxAndroid
 * Retrofit
 
+### More Words...
+
+Rx stands for Reactive Extension.
+
+
