@@ -6,7 +6,6 @@
 * Term Rx Created by Microsoft. 
 * It is not a new language, It is just an other library say Retrofit, Glide etc.,
 
-### Anatomy
 1. Observable
 2. Observer
 3. Schedulers
