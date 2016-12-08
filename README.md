@@ -22,6 +22,7 @@ Their counterpart, Observers, watch Observables by “subscribing” to them.
 Observers can take actions when an Observable emits a value, when the Observable says an error has occurred, or when the Observable says that it no longer has any values to emit. All three of these actions are encapsulated in the Observer interface. The corresponding functions are onNext(), onError(), and onCompleted().
 
 
+
 ```
                 getIpApiObservable()                        --> Observable (Retrofit Call)
                 .subscribeOn(Schedulers.io())              |--> Schdulers
